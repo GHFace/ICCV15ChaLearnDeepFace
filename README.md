@@ -6,3 +6,4 @@ Our implementation is based on MatConvNet developed by VGG group, Oxford Univers
 
 Three models (CNN-S, CNN-M, CNN-L) introduced in the paper are trained using the three script files (cnn_lfw_model_single_1.m, cnn_lfw_model_single_2.m and  cnn_lfw_model_single_3.m) respectively.
 
+TODO: Later we will also provide pre-trained networks that can be used directly.
